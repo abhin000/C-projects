@@ -1,0 +1,6 @@
+topic : Bank management system.
+requirements : 3 modules -> create new user,withdraw & deposit, check balance.
+
+it have created a structure for account holder details.
+it will save file for future needs. it used file system within project.
+it also bring a concept of structure within another structure.
